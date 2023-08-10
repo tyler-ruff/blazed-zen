@@ -1,0 +1,47 @@
+{
+  "name": "blazed-zen",
+  "version": "1.0.0",
+  "description": "Simple website starter for Vite+Vue 3.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build-tailwind": "npx tailwindcss -o src/assets/build.css --minify"
+  },
+  "dependencies": {
+    "topbar": "^2.0.1",
+    "vue": "^3.0.11",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/typography": "^0.5.9",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "@vue/component-compiler-utils": "^3.3.0",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.0.3",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0",
+    "postcss-modules": "^6.0.0",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-ruff/blazed-xyz.git"
+  },
+  "keywords": [
+    "blazed",
+    "publishing",
+    "xyz",
+    "firebase"
+  ],
+  "author": "blazed-labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyler-ruff/blazed-xyz/issues"
+  },
+  "homepage": "https://github.com/tyler-ruff/blazed-xyz#readme"
+}
