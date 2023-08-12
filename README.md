@@ -1,5 +1,5 @@
 # Blazed Zen
-Simple website starter for Vite+Vue 3.
+A Zenful-Mind awareness app.
 
 ## Local Development
 1. Clone repo to your machine
@@ -9,3 +9,8 @@ npm install
 npm run dev
 ```
 3. Navigate to http://localhost:5173/
+
+## Built With
+- [Vite](https://vitejs.dev/), [Vue 3](https://vuejs.org/)
+- [Tailwind](https://tailwindcss.com/), [DaisyUI](https://daisyui.com/)
+

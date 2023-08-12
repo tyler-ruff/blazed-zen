@@ -17,8 +17,8 @@ export const config = {
             url: "/"
         },
         {
-            label: "Browse",
-            url: "/catalog"
+            label: "Mood",
+            url: "/feeling"
         },
         {
             label: "Contact",
@@ -31,8 +31,8 @@ export const config = {
             url: "/"
         },
         {
-            label: "Browse",
-            url: "/catalog"
+            label: "Mood",
+            url: "/feeling"
         },
         {
             label: "Contact",
